@@ -1,0 +1,11 @@
+*.aux
+*.fbd_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+view.txt
+*.html
+*.arff
+*.jpg
